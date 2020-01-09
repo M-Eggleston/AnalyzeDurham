@@ -1,0 +1,10 @@
+name: opencity
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scipy
+  - beautifulsoup4
+
